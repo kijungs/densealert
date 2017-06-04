@@ -4,9 +4,9 @@ DenseAlert: Incremental Dense-SubTensor Detection in Tensor Streams
 **DenseStream** is an incremental algorithm for detecting dense subtensors in tensor streams, and
 **DenseAlert** is an incremental algorithm for spotting suddenly emerging dense subtensors.
 They have the following properties:
- * *Fast and 'Any Time'*: By maintaining and updating a dense subtensor, our methods detect a dense subtensor in a tensor stream significantly faster than batch algorithms.
- * *Provably Accurate*: Our methods provide theoretical guarantees on their accuracy, and show high accuracy in practice.
- * *Effective*: Our methods successfully identifies anomalies, such as bot activities, rating manipulations, and network intrusions, in real-world tensors.
+ * *Fast and 'Any Time'*: By maintaining and updating a dense subtensor, our algorithms detect a dense subtensor in a tensor stream significantly faster than batch algorithms.
+ * *Provably Accurate*: Our algorithms provide theoretical guarantees on their accuracy, and show high accuracy in practice.
+ * *Effective*: Our algorithms successfully identifies anomalies, such as bot activities, rating manipulations, and network intrusions, in real-world tensors.
 
 Datasets
 ========================
