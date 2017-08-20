@@ -29,6 +29,7 @@ If you use this code as part of any published research, please acknowledge the f
   author={Shin, Kijung and Hooi, Bryan and Kim, Jisu and Faloutsos, Christos},
   booktitle={Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining},
   year={2017},
+  pages={1057--1066},
   organization={ACM}
 }
 ```
